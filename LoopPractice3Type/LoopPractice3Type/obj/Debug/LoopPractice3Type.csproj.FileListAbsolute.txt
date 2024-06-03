@@ -1,0 +1,7 @@
+E:\c# repository\LoopPractice3Type\LoopPractice3Type\bin\Debug\LoopPractice3Type.exe.config
+E:\c# repository\LoopPractice3Type\LoopPractice3Type\bin\Debug\LoopPractice3Type.exe
+E:\c# repository\LoopPractice3Type\LoopPractice3Type\bin\Debug\LoopPractice3Type.pdb
+E:\c# repository\LoopPractice3Type\LoopPractice3Type\obj\Debug\LoopPractice3Type.csproj.AssemblyReference.cache
+E:\c# repository\LoopPractice3Type\LoopPractice3Type\obj\Debug\LoopPractice3Type.csproj.CoreCompileInputs.cache
+E:\c# repository\LoopPractice3Type\LoopPractice3Type\obj\Debug\LoopPractice3Type.exe
+E:\c# repository\LoopPractice3Type\LoopPractice3Type\obj\Debug\LoopPractice3Type.pdb
